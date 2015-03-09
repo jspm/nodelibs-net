@@ -1,1 +1,1 @@
-module.exports = System._nodeRequire ? System._nodeRequire('net') : require('net-browserify-stub');
+module.exports = System._nodeRequire ? System._nodeRequire('net') : require('net-browserify');

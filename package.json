@@ -1,6 +1,6 @@
 {
   "registry": "npm",
   "dependencies": {
-    "net-browserify-stub": "0.0.1"
+    "net-browserify": "^0.1.6"
   }
 }
