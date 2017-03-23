@@ -1,7 +1,7 @@
 {
   "main": "./net.js",
   "name": "jspm-nodelibs-net",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "map": {
     "./net.js": {
       "node": "@node/net"
